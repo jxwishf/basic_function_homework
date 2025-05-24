@@ -4,3 +4,4 @@
 # 2. Return exactly "Hello World" as a string
 def get_hello_world():
     return "Hello World"
+print(get_hello_world())
